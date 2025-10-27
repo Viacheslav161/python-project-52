@@ -39,7 +39,7 @@ A Django-based task management system that allows users to create, track, and ma
 
 1. Clone the repository
    ```bash
-   git clone git@github.com:lyovaparsyan94/python-project-52.git
+   git clone git@github.com:Viacheslav161/python-project-52.git
    ```
 2. Install dependencies:
    ```bash
